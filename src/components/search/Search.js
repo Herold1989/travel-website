@@ -22,7 +22,7 @@ function Search() {
                         <div className='box'>
                             <div>
                                 <h3>NO ONE INCLUDES MORE</h3>
-                                <p>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p>
+                                <p>ALL-INCLUSIVE SERVICES AT YOUR DISPOSITION</p>
                                 <button>View Packages</button>
                             </div>
                         </div>
