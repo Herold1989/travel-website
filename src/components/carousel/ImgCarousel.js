@@ -12,6 +12,7 @@ import Maldives3 from '../../assets/maldives3.jpg'
 
 function ImgCarousel() {
     return (
+        <div className='container'>
         <Carousel className='carousel' showArrows={true} autoPlay={true} infiniteLoop={true} >
             <div>
                 <img src={Select1} />
@@ -34,7 +35,9 @@ function ImgCarousel() {
                 {/* <p className="legend">Legend 5</p> */}
             </div>
             
-        </Carousel>)
+        </Carousel>
+        </div>
+        )
 }
 
 export default ImgCarousel
