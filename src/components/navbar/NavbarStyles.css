@@ -6,6 +6,8 @@
     align-items: center;
     padding: 0 1rem;
     z-index: 2;
+    position: absolute;
+    color: #fff;
 }
 
 .navbar-bg {
@@ -46,8 +48,12 @@ li {
         /* color: rgba(255,255,255,0.95); */
         background-color: whitesmoke;
         transition: 0.3s;
+        color: #000;
     }
 
+    .dark {
+        color: #000;
+    }
 
     .active {
         top: 80px;
@@ -99,4 +105,5 @@ li {
     .hamburger {
         display: block;
     }
+
 }
