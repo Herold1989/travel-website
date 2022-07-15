@@ -5,7 +5,7 @@ import { FaFacebook, FaInstagram, FaPinterest, FaTwitter, FaYoutube } from 'reac
 
 function Footer() {
     return (
-        <div className='footer'>
+        <div name = 'footer' className='footer'>
             <div className="container">
                 <div className="top">
                     <h3>BEACHES.</h3>

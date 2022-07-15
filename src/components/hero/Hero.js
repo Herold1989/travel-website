@@ -7,7 +7,7 @@ import {AiOutlineSearch } from 'react-icons/ai'
 
 function Hero() {
   return (
-    <div className='hero'>
+    <div name = 'home' className='hero'>
            <video autoPlay loop muted id='video'>
                 <source src={Video} type='video/mp4' />
             </video>
