@@ -33,6 +33,11 @@ li {
     display: none;
 }
 
+.icon {
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
 
 @media screen and (max-width: 940px){
     
